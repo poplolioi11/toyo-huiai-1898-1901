@@ -1,7 +1,7 @@
 {
   "source_title": "First Report of the Refuge for the Insane at Canton (1898–1901)",
   "title_zh": "廣州惠愛醫癲院首期報告（1898–1901）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://morrison.toyobunko-lab.jp/en/item/P-III-a-1898",
   "manifest": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/manifest",
@@ -63,7 +63,7 @@
             },
             {
               "kind": "excerpt",
-              "text": "The civilization culture and various\nreligions of such ancient centres of\nlearning as Egypt, Persia, India, China,\nand Japan, have in the past availed\nNOTHING to elevate their insane from a\nstate of degradation and neglect .- Report\nof Pennsylvania Committee on Lunacy.",
+              "text": "The civilization culture and various\nreligions of such ancient centres of\nlearning as Egypt, Persia, India, China,\nand Japan, have in the past availed\nNOTHING to elevate their insane from a\nstate of degradation and neglect.—Report\nof Pennsylvania Committee on Lunacy.",
               "id": "f001-r-u05"
             },
             {
@@ -76,6 +76,18 @@
             {
               "anchor": "f001-r-u06",
               "reason": "A faint top-right manuscript ownership mark above the circled 1 is not confidently legible. Older shelf mark at the foot is provisional. The adjacent measuring scale is outside the leaf."
+            },
+            {
+              "anchor": "f001-r-u06",
+              "candidate": "P-III-4061. 22",
+              "reason": "影像確認 P-III 與末尾 22。左邊數碼曾有不同讀法，406 後疑分號或數字與句點。上角另有未定手書，圈 1 可讀。",
+              "bbox": [
+                1550,
+                2000,
+                1910,
+                2140
+              ],
+              "status": "unresolved"
             }
           ]
         }
@@ -144,7 +156,7 @@
               "title": "",
               "rows": [
                 [
-                  "JOHN G. KERR, M.D., LL. D.,",
+                  "JOHN G. KERR, M.D., LL.D.,",
                   "Superintendent."
                 ],
                 [
@@ -152,7 +164,7 @@
                   "Consulting Surgeon."
                 ],
                 [
-                  "LAN YAK IP, M. D.,",
+                  "LAN YAK IP, M.D.,",
                   "Assistant Physician."
                 ],
                 [
@@ -448,6 +460,18 @@
             {
               "anchor": "f007-l-u01",
               "reason": "Founding date in the small rotated caption is faint. Tentative range 1897–8."
+            },
+            {
+              "anchor": "f007-l-u01",
+              "candidate": "18□□",
+              "reason": "旋轉可見日期末段極淡。獨立 B 的 1897–8 可列候選，現有影像不足以定每一筆畫。",
+              "bbox": [
+                1581,
+                1323,
+                1600,
+                1692
+              ],
+              "status": "unresolved"
             }
           ]
         },
@@ -723,7 +747,7 @@
             },
             {
               "kind": "body",
-              "text": "As has been already stated the donor of this $6,668, 19 gave ready con-\nsent that this money should be devoted to this purpose.",
+              "text": "As has been already stated the donor of this $6,668,19 gave ready con-\nsent that this money should be devoted to this purpose.",
               "id": "f009-l-u13"
             },
             {
@@ -908,7 +932,7 @@
             },
             {
               "kind": "body",
-              "text": "He had been a policeman in the governor's yamen, and\nif bodily strength was a requisite for that post, he certainly had\none qualification for it. His whole being seemed to have\nbecome centered in the animal.",
+              "text": "He had been a policeman in the governor's yamên, and\nif bodily strength was a requisite for that post, he certainly had\none qualification for it. His whole being seemed to have\nbecome centered in the animal.",
               "id": "f011-r-u05"
             },
             {
@@ -1529,6 +1553,12 @@
             {
               "kind": "caption",
               "text": "WOMEN PATIENTS HAVING THEIR RICE.",
+              "bbox": [
+                1476,
+                875,
+                1508,
+                1394
+              ],
               "id": "f018-l-u01"
             }
           ],
@@ -1541,27 +1571,39 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "running",
+              "kind": "heading",
               "text": "REFUGE FOR INSANE.",
+              "bbox": [
+                2040,
+                373,
+                2356,
+                407
+              ],
               "id": "f018-r-u01"
             },
             {
               "kind": "heading",
               "text": "Record of Patients.",
+              "bbox": [
+                2045,
+                467,
+                2334,
+                507
+              ],
               "id": "f018-r-u02"
             },
             {
               "kind": "table",
-              "title": "",
+              "title": "Record of Patients.",
               "rows": [
                 [
                   "No.",
                   "Name.",
                   "Age",
                   "Residence.",
-                  "Admitted.",
+                  "Admit-\nted.",
                   "Occupation.",
-                  "Duration. Yrs.",
+                  "Duration\nYrs.",
                   "Mo.",
                   "Result.",
                   "Dismissed."
@@ -1571,45 +1613,45 @@
                   "Ho Cheuk.",
                   "27",
                   "Nam Hoi.",
-                  "1898. Feb.",
-                  "",
+                  "1898.\nFeb.",
+                  "…",
                   "5",
-                  "",
+                  "…",
                   "Died",
-                  ""
+                  "…"
                 ],
                 [
                   "2",
                   "Chan Tsz Chiu.",
                   "23",
                   "San Ui.",
-                  "”",
-                  "",
+                  "„",
+                  "…",
                   "1",
-                  "",
+                  "…",
                   "Recovered",
-                  ""
+                  "…"
                 ],
                 [
                   "3",
                   "Ip Ngan.",
                   "35",
-                  "... ...",
-                  "”",
+                  "… …",
+                  "„",
                   "Boat woman",
                   "1",
-                  "",
+                  "…",
                   "Recovered",
-                  ""
+                  "…"
                 ],
                 [
                   "4",
-                  "Chan Lim Tsang.",
+                  "Chan Lim\nTsang.",
                   "13",
                   "Tsang Tsing.",
                   "March",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "6",
                   "Recovered",
                   "May, 1898."
@@ -1619,36 +1661,36 @@
                   "Chan Tsing.",
                   "56",
                   "Nam Hoi.",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "6",
-                  "Lau Kam Un.",
+                  "Lau Kam Ün.",
                   "22",
                   "Heung Shan.",
                   "April",
                   "Laborer",
-                  "",
+                  "…",
                   "6",
                   "Recovered",
-                  ""
+                  "…"
                 ],
                 [
                   "7",
                   "Chan Shi. a",
                   "25",
                   "Hongkong.",
-                  "”",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "8",
@@ -1656,11 +1698,11 @@
                   "52",
                   "Tung Kun.",
                   "Aug. 26",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "6",
                   "Recovered",
-                  ""
+                  "…"
                 ],
                 [
                   "9",
@@ -1668,9 +1710,9 @@
                   "24",
                   "Nam Hoi.",
                   "May",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "No impr’m’t",
                   "Oct. 28"
                 ],
@@ -1680,57 +1722,57 @@
                   "34",
                   "Pun Yü.",
                   "Sept. 5",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "11",
                   "Chan Chiu. c",
                   "26",
                   "Pun Yü.",
-                  "” 15",
-                  "",
+                  "„ 15",
+                  "…",
                   "5",
-                  "",
-                  "Slight impr’m’t",
-                  ""
+                  "…",
+                  "Slightimpr’m’t",
+                  "…"
                 ],
                 [
                   "12",
                   "Chan Pai. d",
                   "27",
                   "Nam Hoi.",
-                  "” 12",
-                  "",
+                  "„ 12",
+                  "…",
                   "2",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "13",
-                  "Chan Tong Kwan. e",
+                  "Chan Tong\nKwan. e",
                   "35",
                   "Kwong Ning.",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "14",
                   "Tse Akan. f",
                   "24",
                   "Pun Yü.",
-                  "1899. Jan. 30",
-                  "",
+                  "1899.\nJan. 30",
+                  "…",
                   "6",
-                  "",
+                  "…",
                   "Recovered",
                   ""
                 ],
@@ -1738,11 +1780,11 @@
                   "15",
                   "Lo Leung.",
                   "40",
-                  "” ”",
+                  "„ „",
                   "Feb. 2",
                   "Shopman",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "No impr’m’t",
                   "Dec. 14"
                 ],
@@ -1751,22 +1793,22 @@
                   "Wai Afat.",
                   "24",
                   "Heung Shan.",
-                  "” 27",
-                  "",
+                  "„ 27",
+                  "…",
                   "1",
-                  "",
+                  "…",
                   "No impr’m’t",
                   "Mar. 27"
                 ],
                 [
                   "17",
-                  "Tsing L. female.",
+                  "Tsing □.\nfemale.",
                   "24",
                   "Heung Shan.",
                   "April 24",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "July 24"
                 ],
@@ -1776,9 +1818,9 @@
                   "31",
                   "Nam Hoi.",
                   "June 3",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "No impr’m’t",
                   "Nov. 22"
                 ],
@@ -1786,11 +1828,11 @@
                   "19",
                   "Pang Hing.",
                   "50",
-                  "” ”",
-                  "” 7",
-                  "",
-                  "",
-                  "",
+                  "„ „",
+                  "„ 7",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "July 3"
                 ],
@@ -1799,24 +1841,24 @@
                   "Chan Hi.",
                   "29",
                   "Pun Yü.",
-                  "” 10",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„ 10",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "21",
                   "Mrs. Lau Ku. h",
-                  "...",
-                  "Kong Sai Prov.",
-                  "” 10",
-                  "",
+                  "…",
+                  "KongSaiProv.",
+                  "„ 10",
+                  "…",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "22",
@@ -1824,21 +1866,21 @@
                   "28",
                   "Hok Shan.",
                   "July 6",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "No impr’m’t",
                   "July 4"
                 ],
                 [
                   "23",
-                  "Mak Pong Chi. j",
+                  "MakPongChi. j",
                   "35",
                   "Shan Tak.",
-                  "” 7",
-                  "",
+                  "„ 7",
+                  "…",
                   "5",
-                  "",
+                  "…",
                   "Improved",
                   "Dec. 4"
                 ],
@@ -1847,10 +1889,10 @@
                   "Lam Aping. k",
                   "20",
                   "San Ui.",
-                  "” 13",
-                  "",
+                  "„ 13",
+                  "…",
                   "1",
-                  "",
+                  "…",
                   "No impr’m’t",
                   "Oct. 20"
                 ],
@@ -1859,48 +1901,48 @@
                   "Ho Aleung.",
                   "36",
                   "Heung Shan.",
-                  "” 15",
+                  "„ 15",
                   "Business",
-                  "",
+                  "…",
                   "9",
                   "Died",
-                  ""
+                  "…"
                 ],
                 [
                   "26",
                   "Wong Ayuk. l",
                   "25",
                   "Pun Yü.",
-                  "” 27",
-                  "",
-                  "",
+                  "„ 27",
+                  "…",
+                  "…",
                   "6",
                   "Recovered",
-                  "Mar. 11,1901"
+                  "Mar.11,1901"
                 ],
                 [
                   "27",
-                  "Wong Aluk, female.",
+                  "Wong Aluk,\nfemale.",
                   "29",
                   "Nam Hoi.",
-                  "” ”",
-                  "",
+                  "„ „",
+                  "…",
                   "1",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "28",
                   "Yo Akam.",
                   "27",
                   "Nam Hoi.",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "1",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "29",
@@ -1908,45 +1950,45 @@
                   "22",
                   "Pun Yü.",
                   "Sept. 2",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "30",
-                  "Chan Luk Chi. m",
+                  "ChanLukChi. m",
                   "22",
                   "Shan Tak.",
-                  "” 5",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„ 5",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "31",
                   "Leung Yau.",
                   "28",
                   "Nam Hoi.",
-                  "” 6",
-                  "",
-                  "",
+                  "„ 6",
+                  "…",
+                  "…",
                   "3",
                   "Improved",
                   "Feb.10,1900"
                 ],
                 [
                   "32",
-                  "Chan Ayau, female.",
+                  "Chan Ayau,\nfemale.",
                   "17",
                   "Pun Yü.",
-                  "” 8",
-                  "",
-                  "",
-                  "",
+                  "„ 8",
+                  "…",
+                  "…",
+                  "…",
                   "Improved",
                   "Nov. 6"
                 ],
@@ -1955,10 +1997,10 @@
                   "Leung Tung. n",
                   "30",
                   "Nam Hoi.",
-                  "” 14",
-                  "",
-                  "",
-                  "",
+                  "„ 14",
+                  "…",
+                  "…",
+                  "…",
                   "No impr’m’t",
                   "Dec., 1899"
                 ],
@@ -1967,45 +2009,45 @@
                   "Fung Tai Yün.",
                   "22",
                   "Pun Yü.",
-                  "” 16",
-                  "",
-                  "",
+                  "„ 16",
+                  "…",
+                  "…",
                   "3",
                   "Recovered",
-                  "Nov. 6,1899"
+                  "Nov. 6, 1899"
                 ],
                 [
                   "35",
                   "Hai Tsan Hing.",
                   "19",
-                  "... ...",
-                  "” 20",
-                  "",
-                  "",
+                  "… …",
+                  "„ 20",
+                  "…",
+                  "…",
                   "1½",
                   "Improved",
-                  "Feb. 8,1900"
+                  "Feb. 8, 1900"
                 ],
                 [
                   "36",
                   "Mrs. Lok.",
                   "42",
                   "Hok Shan.",
-                  "” 20",
-                  "",
+                  "„ 20",
+                  "…",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "37",
                   "Chan Shing. o",
                   "49",
                   "Pun Yü.",
-                  "” 25",
-                  "",
-                  "",
+                  "„ 25",
+                  "…",
+                  "…",
                   "8",
                   "Much imp’d",
                   "Nov.20,1899"
@@ -2014,22 +2056,22 @@
                   "38",
                   "Mrs. Lo.",
                   "43",
-                  "” ”",
-                  "” 27",
+                  "„ „",
+                  "„ 27",
                   "Boat woman",
-                  "",
+                  "…",
                   "13",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "39",
-                  "Lau Tsan Shang.",
+                  "Lau Tsan\nShang.",
                   "40",
                   "Unam Prov.",
                   "Oct. 9",
-                  "Petty Official",
-                  "",
+                  "Petty\nOfficial",
+                  "…",
                   "1",
                   "Recovered",
                   "Nov. 27"
@@ -2039,22 +2081,22 @@
                   "Kon Kai Kwok.",
                   "35",
                   "Nam Hoi.",
-                  "” 13",
-                  "",
+                  "„ 13",
+                  "…",
                   "1",
-                  "",
+                  "…",
                   "Died",
-                  "Mar.,1900"
+                  "Mar., 1900"
                 ],
                 [
                   "41",
                   "Yeung Kan. p",
                   "28",
                   "Pun Yü.",
-                  "” 19",
-                  "",
+                  "„ 19",
+                  "…",
                   "5",
-                  "",
+                  "…",
                   "Some impr’m’t",
                   "Mar. 12"
                 ],
@@ -2064,7 +2106,7 @@
                   "32",
                   "Shan Tak.",
                   "Nov. 7",
-                  "",
+                  "…",
                   "1",
                   "5",
                   "Some impr’m’t",
@@ -2072,13 +2114,13 @@
                 ],
                 [
                   "43",
-                  "Leo Yeung Chan.",
+                  "Leo Yeung\nChan.",
                   "44",
                   "Lung Mun.",
-                  "” 10",
+                  "„ 10",
                   "Scholar",
                   "4",
-                  "",
+                  "…",
                   "Escaped",
                   "June10,1900"
                 ],
@@ -2087,63 +2129,112 @@
                   "Mrs. Wong Ü.",
                   "22",
                   "Fa Ün.",
-                  "” 20",
-                  "",
+                  "„ 20",
+                  "…",
                   "1",
-                  "",
+                  "…",
                   "Improved",
-                  "Apr. 2,1901"
+                  "Apr. 2, 1901"
                 ],
                 [
                   "45",
                   "Mrs. Li Im.",
                   "28",
-                  "Kwong Sai P.",
-                  "” 20",
-                  "",
+                  "KwongSai P.",
+                  "„ 20",
+                  "…",
                   "4",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "46",
                   "Kwok Ayung.",
                   "28",
                   "Nam Hoi.",
-                  "” 26",
-                  "",
+                  "„ 26",
+                  "…",
                   "1",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "47",
-                  "Lam Ahi. r",
+                  "□am Ahi. r",
                   "18",
                   "Pun Yü.",
                   "Dec. 7",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "Died",
-                  "Apr. 6,1900"
+                  "Apr. 6, 1900"
                 ]
               ],
               "header_row": true,
+              "bbox": [
+                1677,
+                520,
+                2686,
+                1708
+              ],
               "id": "f018-r-u03"
             },
             {
-              "kind": "footnote",
-              "text": "a. Picked up in the street by Mrs. Snuggs.\nb. Wears no clothes, covered with blanket.\nc. Grandson of Leung Afat.\nd. Escaped October 28th, 1899.\ne. Catholic. Talks English.\nf. Office boy of China Merchants’ Co.\ng. Dumb.\nh. Husband in native Customs.\ni. A strong man. Morose.\nj. Wrote characters all the time.\nk. Periodical insanity.\nl. Opium smoker, caused insanity.\nm. Partial paralysis of legs.\nn. Twice escaped.\no. Sent by Chin Un, B. K.\np. Taken home by mother.\nq. Taken home.\nr. Picked up on Honan by Lau Tz-wai.",
+              "kind": "text",
+              "text": "a. Picked up in the street by Mrs. Snuggs.\nb. Wears no clothes, covered with blanket.\nc. Grandson of Leung Afat.\nd. Escaped October 28th, 1899.\ne. Catholic. Talks English.\nf. Office boy of China Merchants’ Co.\ng. Dumb.\nh. Husband in native Customs.\ni. A strong man. Morose.",
+              "bbox": [
+                1683,
+                1719,
+                2127,
+                1917
+              ],
               "id": "f018-r-u04"
+            },
+            {
+              "kind": "text",
+              "text": "j. Wrote characters all the time.\nk. Periodical insanity.\nl. Opium smoker, caused insanity.\nm. Partial paralysis of legs.\nn. Twice escaped.\no. Sent by Chin Un, B. K.\np. Taken home by mother.\nq. Taken home.\nr. Picked up on Honan by Lau Tz-wai.",
+              "bbox": [
+                2180,
+                1733,
+                2588,
+                1925
+              ],
+              "id": "f018-r-u05"
             }
           ],
           "notes": [
             {
-              "anchor": "f018-r-u04",
-              "reason": "No. 17's romanized name is faint and read provisionally as Tsing L. Dot leaders are represented as empty cells, with deliberate age and residence placeholders preserved. Many outcomes and dates sit more than a half-line below the left-hand patient labels because the table is skewed on the scan."
+              "anchor": "f018-r-u03",
+              "reason": "The table retains ten columns. A printed dot leader appears as … and blank cells indicate no visible mark. Years printed on separate lines remain attached to the following date. Multiline name cells retain the joined printed lines.",
+              "brace_name_rows": [
+                4,
+                13,
+                17,
+                27,
+                32,
+                39,
+                43
+              ]
+            },
+            {
+              "anchor": "f018-r-u03/patient017/c02",
+              "reason": "Only several disconnected ink traces survive after Tsing. The abbreviation and bracket span this line and the lower female line.",
+              "status": "unresolved",
+              "candidates": [
+                "L",
+                "A"
+              ]
+            },
+            {
+              "anchor": "f018-r-u03/patient047/c02",
+              "reason": "At the first letter only small ink fragments survive beside the ruled margin, with the printed am and the remainder of the entry visible.",
+              "status": "unresolved",
+              "candidates": [
+                "L"
+              ]
             }
           ]
         }
@@ -2170,22 +2261,28 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "running",
+              "kind": "heading",
               "text": "FIRST REPORT",
+              "bbox": [
+                897,
+                377,
+                1108,
+                408
+              ],
               "id": "f019-l-u01"
             },
             {
               "kind": "table",
-              "title": "",
+              "title": "Patient register, page 24",
               "rows": [
                 [
                   "No.",
                   "Name.",
                   "Age",
                   "Residence.",
-                  "Admitted.",
+                  "Admit-\nted.",
                   "Occupation.",
-                  "Duration. Yrs.",
+                  "Duration\nYrs.",
                   "Mo.",
                   "Result.",
                   "Dismissed."
@@ -2195,10 +2292,10 @@
                   "Lai Afuk.",
                   "20",
                   "Shin Hing.",
-                  "1899. Dec. 13",
-                  "",
-                  "",
-                  "",
+                  "1899.\nDec. 13",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "Jan.28,1900"
                 ],
@@ -2207,48 +2304,48 @@
                   "Tsing Asai.",
                   "27",
                   "Kuk Kong.",
-                  "” 16",
-                  "",
+                  "„ 16",
+                  "…",
                   "6",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "50",
-                  "Chan Ni Leung.",
+                  "ChanNiLeung.",
                   "39",
                   "Shan Tak.",
-                  "1900. Jan. 4",
-                  "",
+                  "1900.\nJan. 4",
+                  "…",
                   "1",
-                  "",
+                  "…",
                   "Died",
                   "Jan.10,1900"
                 ],
                 [
                   "51",
-                  "Mrs. Ho Angan.",
+                  "Mrs. Ho An-\ngan.",
                   "30",
                   "Nam Hoi.",
-                  "” 12",
-                  "",
-                  "",
-                  "",
+                  "„ 12",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "Aug. 13"
                 ],
                 [
                   "52",
-                  "Mrs. Cheung Lau.",
+                  "Mrs. Cheung\nLau.",
                   "25",
                   "Shan Tak.",
-                  "” 30",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„ 30",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "53",
@@ -2258,7 +2355,7 @@
                   "Feb. 1",
                   "Laborer",
                   "1",
-                  "",
+                  "…",
                   "Died",
                   "Mar 29,1900"
                 ],
@@ -2267,22 +2364,22 @@
                   "Tam Akün.",
                   "26",
                   "Nam Hoi.",
-                  "” 14",
-                  "”",
-                  "",
+                  "„ 14",
+                  "„",
+                  "…",
                   "2",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "55",
                   "Ip Amui.",
                   "27",
-                  "” ”",
-                  "” 23",
-                  "",
-                  "",
-                  "",
+                  "„ „",
+                  "„ 23",
+                  "…",
+                  "…",
+                  "…",
                   "Improved",
                   "June 20"
                 ],
@@ -2290,23 +2387,23 @@
                   "56",
                   "Ho Wing.",
                   "28",
-                  "” ”",
-                  "” 28",
-                  "",
-                  "",
+                  "„ „",
+                  "„ 28",
+                  "…",
+                  "…",
                   "3",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "57",
                   "Li Asun.",
                   "32",
-                  "” ”",
+                  "„ „",
                   "Mar. 2",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "Died",
                   "March"
                 ],
@@ -2315,57 +2412,57 @@
                   "Chin Alan. a",
                   "34",
                   "Ho Iu.",
-                  "” 8",
-                  "",
-                  "",
+                  "„ 8",
+                  "…",
+                  "…",
                   "4",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "59",
                   "Un Lung Pin. b",
                   "35",
                   "Shan Tak.",
-                  "” 10",
-                  "",
-                  "",
-                  "",
+                  "„ 10",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "Apr. 13"
                 ],
                 [
                   "60",
-                  "Mrs. Yeung Fong. c",
+                  "Mrs. Yeung\nFong. c",
                   "32",
                   "Unam Prov.",
-                  "” 13",
-                  "",
-                  "",
+                  "„ 13",
+                  "…",
+                  "…",
                   "2",
                   "Recovered",
-                  "” 12"
+                  "„ 12"
                 ],
                 [
                   "61",
                   "Mrs. Leung Ng",
                   "50",
                   "Ko Iu.",
-                  "” 15",
-                  "",
-                  "",
+                  "„ 15",
+                  "…",
+                  "…",
                   "6½",
                   "Improved",
-                  "” 2"
+                  "„ 2"
                 ],
                 [
                   "62",
-                  "Chan Tso Leung.",
+                  "Chan Tso\nLeung.",
                   "17",
                   "San Ui.",
-                  "” 26",
-                  "",
-                  "",
+                  "„ 26",
+                  "…",
+                  "…",
                   "4",
                   "Improved",
                   "Aug. 28"
@@ -2376,7 +2473,7 @@
                   "27",
                   "Nam Hoi.",
                   "Apr. 9",
-                  "",
+                  "…",
                   "1",
                   "6",
                   "Died",
@@ -2387,11 +2484,11 @@
                   "Mrs. Heung. d",
                   "30",
                   "Unam Prov.",
-                  "” 17",
-                  "",
+                  "„ 17",
+                  "…",
                   "24",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "Mar. 7"
                 ],
                 [
@@ -2399,45 +2496,45 @@
                   "Un King Fong.",
                   "50",
                   "Kwai Shan.",
-                  "” 18",
-                  "",
-                  "",
+                  "„ 18",
+                  "…",
+                  "…",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "66",
-                  "Lo Leung Chiu. e",
+                  "LoLeungChiu. e",
                   "52",
                   "Nam Hoi.",
-                  "” 20",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„ 20",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "67",
                   "Aya.",
                   "20",
                   "Singapore.",
-                  "” 10",
-                  "",
-                  "",
-                  "",
+                  "„ 10",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "July 2"
                 ],
                 [
                   "68",
-                  "Fang Cheung Wong.",
+                  "FangCheung\nWong.",
                   "26",
                   "Pok So.",
-                  "” 20",
-                  "",
-                  "",
+                  "„ 20",
+                  "…",
+                  "…",
                   "5",
                   "Escaped",
                   "May 21"
@@ -2447,9 +2544,9 @@
                   "Mrs. Fan.",
                   "50",
                   "Pun Yü.",
-                  "” 28",
-                  "",
-                  "",
+                  "„ 28",
+                  "…",
+                  "…",
                   "3",
                   "Recovered",
                   "May23,1900"
@@ -2459,70 +2556,70 @@
                   "Liu Kan Lin.",
                   "40",
                   "Kung Chau.",
-                  "” ”",
-                  "",
-                  "",
-                  "",
-                  "”",
-                  "” 12"
+                  "„ „",
+                  "…",
+                  "…",
+                  "…",
+                  "„",
+                  "„ 12"
                 ],
                 [
                   "71",
-                  "Mrs. Wong Teung.",
+                  "Mrs. Wong\nTeung.",
                   "27",
                   "Ko Iu.",
                   "May 5",
-                  "",
+                  "…",
                   "3 ds.",
-                  "",
+                  "…",
                   "Improved",
-                  "” 29"
+                  "„ 29"
                 ],
                 [
                   "72",
                   "Ng Chit Hing.",
-                  "29",
+                  "",
                   "Nam Hoi.",
-                  "” 9",
-                  "",
+                  "„ 9",
+                  "…",
                   "1 yr.",
-                  "",
+                  "…",
                   "No impr’m’t",
                   "Nov. 4"
                 ],
                 [
                   "73",
-                  "Mrs. Lau Angan. f",
+                  "Mrs.LauAngan. f",
                   "87",
                   "Fa Ün.",
-                  "” 9",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„ 9",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "74",
-                  "Mrs. Wong Awo",
+                  "Mrs.Wong Awo",
                   "19",
                   "Nam Hoi.",
-                  "” 10",
-                  "",
-                  "",
+                  "„ 10",
+                  "…",
+                  "…",
                   "1",
                   "Recovered",
                   "May 24"
                 ],
                 [
                   "75",
-                  "Lau Atsaung. g",
+                  "Lan Atsaung. g",
                   "28",
-                  "” ”",
-                  "” 15",
-                  "",
-                  "",
-                  "",
+                  "„ „",
+                  "„ 15",
+                  "…",
+                  "…",
+                  "…",
                   "No impr’m’t",
                   "July 15"
                 ],
@@ -2530,71 +2627,71 @@
                   "76",
                   "Fung Ping Fan",
                   "39",
-                  "” ”",
-                  "” 28",
-                  "",
-                  "",
-                  "",
+                  "„ „",
+                  "„ 28",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
-                  "” 27"
+                  "„ 27"
                 ],
                 [
                   "77",
                   "Mrs. Cheung.",
                   "29",
-                  "” ”",
+                  "„ „",
                   "June 7",
-                  "",
+                  "…",
                   "1",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "78",
                   "Li Pa Sz. h",
                   "48",
-                  "Ka Ying Chau",
-                  "” 8",
-                  "",
-                  "",
-                  "",
+                  "KaYingChau",
+                  "„ 8",
+                  "…",
+                  "…",
+                  "…",
                   "Died",
                   "July 8"
                 ],
                 [
                   "79",
-                  "Mrs. Chan Leung.",
+                  "Mrs. Chan\nLeung.",
                   "39",
                   "San Ui.",
-                  "” ”",
-                  "",
-                  "",
+                  "„ „",
+                  "…",
+                  "…",
                   "6",
                   "Recovered",
-                  "” 4"
+                  "„ 4"
                 ],
                 [
                   "80",
                   "Ng Tsit.",
                   "37",
-                  "",
+                  "…",
                   "July 11",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "3 ds.",
                   "Died",
-                  "” 21"
+                  "„ 21"
                 ],
                 [
                   "81",
                   "Cheung Li.",
                   "29",
-                  "Ka Ying Chau",
+                  "KaYingChau",
                   "Sept.17",
                   "Laborer",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "Improved",
                   "Nov. 9"
                 ],
@@ -2603,48 +2700,48 @@
                   "Leung Lu Lan.",
                   "22",
                   "Nam Hoi.",
-                  "” 18",
-                  "",
-                  "",
-                  "",
+                  "„ 18",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "Mar.18,1901"
                 ],
                 [
                   "83",
-                  "Lam Chang Shing.",
+                  "Lam Chang\nShing.",
                   "41",
                   "Tung Kun.",
-                  "” ”",
-                  "",
+                  "„ „",
+                  "…",
                   "1",
                   "3",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "84",
                   "Tsan Shing. i",
                   "50",
                   "Pun Yü.",
-                  "” 24",
-                  "",
-                  "",
-                  "",
+                  "„ 24",
+                  "…",
+                  "…",
+                  "…",
                   "Removed",
-                  "Nov. 3,1900"
+                  "Nov. 3, 1900"
                 ],
                 [
                   "85",
                   "U Akwai.",
                   "23",
                   "Nam Hoi.",
-                  "” 29",
+                  "„ 29",
                   "Laborer",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "86",
@@ -2652,9 +2749,9 @@
                   "37",
                   "Pun Yü.",
                   "Oct. 1",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "Mar.31,1901"
                 ],
@@ -2663,10 +2760,10 @@
                   "Mrs. Tsing Ho.",
                   "23",
                   "Shan Tak.",
-                  "” 4",
-                  "",
-                  "",
-                  "",
+                  "„ 4",
+                  "…",
+                  "…",
+                  "…",
                   "Improved",
                   "Oct. 30,1900"
                 ],
@@ -2675,9 +2772,9 @@
                   "Ting Akam.",
                   "16",
                   "Nam Hoi.",
-                  "” 6",
+                  "„ 6",
                   "Laborer",
-                  "",
+                  "…",
                   "3",
                   "Recovered",
                   "Jan.30,1901"
@@ -2687,147 +2784,182 @@
                   "Tan Afat.",
                   "18",
                   "Heung Shan.",
-                  "” 9",
-                  "",
-                  "",
+                  "„ 9",
+                  "…",
+                  "…",
                   "2",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "90",
                   "Fan Sam Ti.",
                   "18",
                   "Sam Shui.",
-                  "” 12",
+                  "„ 12",
                   "Paper maker",
-                  "",
+                  "…",
                   "2",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "91",
                   "Luk Kwan Pat.",
                   "22",
                   "Nam Hoi.",
-                  "” 12",
+                  "„ 12",
                   "Scholar",
                   "1",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "92",
                   "Li Chi Ki. j",
                   "31",
                   "Shan Tak.",
-                  "” 15",
+                  "„ 15",
                   "Leisure",
                   "10",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "93",
                   "Mrs. Ng Aluk.",
                   "28",
                   "Sam Shui.",
-                  "” 17",
+                  "„ 17",
                   "Laborer",
-                  "",
+                  "…",
                   "4",
                   "Recovered",
                   "Mar.22,1901"
                 ],
                 [
                   "94",
-                  "Sam Cheung Iu. k",
+                  "Sam Cheung\nIu. k",
                   "25",
                   "Shan Tak.",
-                  "” 22",
-                  "",
+                  "„ 22",
+                  "…",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "95",
                   "Pun Iu Shan. l",
                   "28",
                   "Pun Yü.",
-                  "” 30",
+                  "„ 30",
                   "Scholar",
                   "4",
-                  "",
+                  "…",
                   "Some impr’m’t",
                   "Dec.13,1900"
                 ],
                 [
                   "96",
-                  "Lo Tsung Mai.",
+                  "LoTsungMai.",
                   "25",
                   "Shan Tak.",
                   "Nov. 2",
                   "Leisure",
                   "8",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "97",
                   "Chan Atai.",
                   "37",
                   "Pun Yü.",
-                  "” 9",
+                  "„ 9",
                   "Laborer",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "98",
                   "Lan Ü To.",
                   "33",
                   "Pun Yü.",
-                  "” 17",
-                  "",
+                  "„ 17",
+                  "…",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "99",
-                  "Tsan Kwan Cheung.",
+                  "Tsan Kwan\nCheung.",
                   "33",
                   "Hoi Ping.",
-                  "” 28",
+                  "„ 28",
                   "Business",
                   "6",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ]
               ],
               "header_row": true,
+              "bbox": [
+                515,
+                422,
+                1516,
+                1762
+              ],
               "id": "f019-l-u02"
             },
             {
-              "kind": "footnote",
-              "text": "a. Play actor ; destructive.\nb. Escaped April 13 ; returned. Insanity not marked.\nc. Taken away by friends.\nd. Second wife of an official.\ne. Inmate in 1898 ; slightly but permanently insane.\nf. Fits of anger ; beggar woman. London M.\ng. Taken home by father.\nh. Consumption.\ni. Comatose.\nj. Nephew of Li Mun Yin, Hok Toi.\nk. Not insane ; opium smoker.\nl. Hypochondriac : urged to be cut open.",
+              "kind": "text",
+              "text": "a. Play actor ; destructive.\nb. Escaped April 13 ; returned. Insanity not\nmarked.\nc. Taken away by friends.\nd. Second wife of an official.\ne. Inmate in 1898 ; slightly but permanently\ninsane.",
+              "bbox": [
+                530,
+                1774,
+                997,
+                1921
+              ],
               "id": "f019-l-u03"
+            },
+            {
+              "kind": "text",
+              "text": "f. Fits of anger ; beggar woman. London M.\ng. Taken home by father.\nh. Consumption.\ni. Comatose.\nj. Nephew of Li Mun Yin, Hok Toi.\nk. Not insane ; opium smoker.\nl. Hypochondriac ; urged to be cut open.",
+              "bbox": [
+                1030,
+                1755,
+                1518,
+                1920
+              ],
+              "id": "f019-l-u04"
             }
           ],
           "notes": [
             {
-              "anchor": "f019-l-u03",
-              "reason": "No. 72’s age is a working reading. Left-hand page rows and high-offset status fields were aligned by original physical placement. Visual review should resolve any residual row associations."
+              "anchor": "f019-l-u02",
+              "reason": "The table retains ten columns. A printed dot leader appears as … and blank cells indicate no visible mark. Years printed on separate lines remain attached to the following date. Multiline name cells retain the joined printed lines.",
+              "brace_name_rows": [
+                51,
+                52,
+                60,
+                62,
+                68,
+                71,
+                79,
+                83,
+                94,
+                99
+              ]
             }
           ]
         },
@@ -2838,22 +2970,28 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "running",
+              "kind": "heading",
               "text": "REFUGE FOR INSANE.",
+              "bbox": [
+                1993,
+                363,
+                2323,
+                393
+              ],
               "id": "f019-r-u01"
             },
             {
               "kind": "table",
-              "title": "",
+              "title": "Patient register, page 25",
               "rows": [
                 [
                   "No.",
                   "Name.",
                   "Age",
                   "Residence.",
-                  "Admitted.",
+                  "Admit-\nted.",
                   "Occupation.",
-                  "Duration. Yrs.",
+                  "Duration\nYrs.",
                   "Mo.",
                   "Result.",
                   "Dismissed."
@@ -2863,58 +3001,58 @@
                   "Tsui Pui Man.",
                   "28",
                   "Pun Yü.",
-                  "1900. Dec. 10",
+                  "1900.\nDec. 10",
                   "Scholar",
-                  "",
+                  "…",
                   "6",
                   "Died",
                   "Mar22,1901"
                 ],
                 [
                   "101",
-                  "Wong Kwai Yeung.",
+                  "Wong Kwai\nYeung.",
                   "26",
                   "San Ui.",
-                  "1901. Jan. 4",
+                  "1901.\nJan. 4",
                   "Business",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "102",
                   "Ho Shan Nü.",
                   "17",
                   "Nam Hoi.",
-                  "” 11",
+                  "„ 11",
                   "Laborer",
-                  "",
+                  "…",
                   "1",
                   "Recovered",
-                  "Apr. 5,1901"
+                  "Apr. 5, 1901"
                 ],
                 [
                   "103",
                   "Chan Li Shi.",
                   "38",
-                  "Nam Ning Fu",
-                  "” 11",
-                  "",
-                  "",
+                  "NamNingFu",
+                  "„ 11",
+                  "…",
+                  "…",
                   "8 ds.",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "104",
                   "Li Kit Sam.",
                   "45",
                   "Honam Prov.",
-                  "” 31",
-                  "",
-                  "",
-                  "",
+                  "„ 31",
+                  "…",
+                  "…",
+                  "…",
                   "Recovered",
                   "March 7"
                 ],
@@ -2924,44 +3062,44 @@
                   "25",
                   "Nam Hoi.",
                   "Feb. 1",
-                  "",
-                  "",
-                  "",
+                  "…",
+                  "…",
+                  "…",
                   "Improved",
-                  "” ”"
+                  "„ „"
                 ],
                 [
                   "106",
                   "Tan Fuk Sam.",
                   "45",
-                  "” ”",
-                  "” 16",
+                  "„ „",
+                  "„ 16",
                   "Doctor",
-                  "",
+                  "…",
                   "9",
                   "Recovered",
-                  "” 6"
+                  "„ 6"
                 ],
                 [
                   "107",
-                  "Tsing Tang Ting.",
+                  "Tsing Tang\nTing.",
                   "49",
                   "Fuk Kin.",
-                  "” 26",
-                  "",
+                  "„ 26",
+                  "…",
                   "3",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "108",
-                  "Chü Ming Chan. a",
+                  "Chü Ming\nChan. a",
                   "44",
                   "Tung Kun.",
-                  "” ”",
+                  "„ „",
                   "Laborer",
-                  "",
+                  "…",
                   "1",
                   "Recovered",
                   "March 26"
@@ -2973,43 +3111,43 @@
                   "Heung Shan.",
                   "Mar. 8",
                   "Customs clerk",
-                  "",
+                  "…",
                   "1",
                   "Not improved",
-                  "” 11"
+                  "„ 11"
                 ],
                 [
                   "110",
                   "Wong Chung.",
                   "30",
                   "San Ning.",
-                  "” 8",
+                  "„ 8",
                   "Laborer",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "111",
                   "Leung Atak.",
                   "30",
                   "Nam Hoi.",
-                  "” 14",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "„ 14",
+                  "…",
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "112",
-                  "Mrs. Wong Chan. b",
+                  "Mrs. Wong\nChan. b",
                   "30",
                   "Pun Ü.",
-                  "” 21",
-                  "",
-                  "",
+                  "„ 21",
+                  "…",
+                  "…",
                   "2",
                   "Died",
                   "March 27"
@@ -3020,8 +3158,8 @@
                   "50",
                   "Pun Ü.",
                   "Apr. 2",
-                  "",
-                  "",
+                  "…",
+                  "…",
                   "6",
                   "Recovered",
                   "April 21"
@@ -3031,33 +3169,33 @@
                   "Lo Aping.",
                   "32",
                   "Nam Hoi.",
-                  "” 20",
+                  "„ 20",
                   "Trader",
-                  "",
+                  "…",
                   "8",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "115",
                   "Lo Yau Lam. c",
                   "43",
                   "",
-                  "” 23",
-                  "",
+                  "„ 23",
+                  "…",
                   "1",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "116",
-                  "Yau To Teun. d",
+                  "Yan To Teun. d",
                   "40",
                   "Fa Ün.",
-                  "” 26",
+                  "„ 26",
                   "Merchant",
-                  "",
+                  "…",
                   "8",
                   "Recovered",
                   "May 10"
@@ -3067,10 +3205,10 @@
                   "Wong Aim.",
                   "33",
                   "San Ui.",
-                  "” 30",
-                  "",
+                  "„ 30",
+                  "…",
                   "7",
-                  "",
+                  "…",
                   "Not improved",
                   "June 1"
                 ],
@@ -3079,12 +3217,12 @@
                   "Mung Kwong.",
                   "31",
                   "Ho Nam.",
-                  "” ”",
-                  "",
+                  "„ „",
+                  "…",
                   "3",
-                  "",
+                  "…",
                   "Not insane",
-                  ""
+                  "…"
                 ],
                 [
                   "119",
@@ -3094,7 +3232,7 @@
                   "May 3",
                   "Leisure",
                   "16",
-                  "",
+                  "…",
                   "Not improved",
                   "July 1"
                 ],
@@ -3103,11 +3241,11 @@
                   "Chung Atsing.",
                   "32",
                   "Tung Kun.",
-                  "” 6",
-                  "",
+                  "„ 6",
+                  "…",
                   "7",
-                  "",
-                  "” ”",
+                  "…",
+                  "„ „",
                   "June 1"
                 ],
                 [
@@ -3115,21 +3253,21 @@
                   "Tsau Cheung.",
                   "29",
                   "Nam Hoi.",
-                  "” 7",
+                  "„ 7",
                   "Merchant",
                   "4",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "122",
                   "Wan Lin Hom.",
                   "21",
                   "Pun Ü.",
-                  "” 16",
-                  "",
-                  "",
+                  "„ 16",
+                  "…",
+                  "…",
                   "2¾",
                   "Recovered",
                   "Aug. 8"
@@ -3139,9 +3277,9 @@
                   "Mrs. Lau Shi. f",
                   "19",
                   "Pun Ü.",
-                  "” 17",
-                  "",
-                  "",
+                  "„ 17",
+                  "…",
+                  "…",
                   "1 5/6",
                   "Died",
                   "July 11"
@@ -3151,96 +3289,96 @@
                   "Chan Atsau.",
                   "35",
                   "",
-                  "” 22",
-                  "",
-                  "",
+                  "„ 22",
+                  "…",
+                  "…",
                   "4",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "125",
                   "Chan Kom.",
                   "33",
                   "",
-                  "” 27",
+                  "„ 27",
                   "Boat man",
-                  "",
+                  "…",
                   "4",
                   "Recovered",
                   "June 17"
                 ],
                 [
                   "126",
-                  "Chan Kau Nai.",
+                  "Chan Kau\nNai.",
                   "35",
                   "Nam Hoi.",
-                  "” ”",
+                  "„ „",
                   "Tailor",
-                  "",
+                  "…",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "127",
                   "Ying Achan.",
                   "28",
                   "San Ui.",
-                  "” 30",
+                  "„ 30",
                   "Merchant",
-                  "",
+                  "…",
                   "4 ds.",
                   "Much imp’d",
                   "Sept. 30"
                 ],
                 [
                   "128",
-                  "Chan Kwok Mui.",
+                  "Chan Kwok\nMui.",
                   "20",
                   "Nam Hoi.",
                   "June 12",
                   "Leisure",
                   "1",
                   "6",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "129",
                   "Yeung Ayan.",
                   "17",
                   "Pun Ü.",
-                  "” 14",
-                  "",
-                  "",
+                  "„ 14",
+                  "…",
+                  "…",
                   "3",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "130",
-                  "Wong To Chan.",
+                  "Wong To\nChan.",
                   "23",
                   "",
                   "",
                   "Student",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "…",
+                  "…",
+                  "…",
+                  "…"
                 ],
                 [
                   "131",
                   "U King Sing.",
                   "28",
                   "San Ning.",
-                  "” 28",
-                  "",
-                  "",
+                  "„ 28",
+                  "…",
+                  "…",
                   "7",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "132",
@@ -3249,31 +3387,31 @@
                   "Hoi Ping.",
                   "July 2",
                   "Farmer",
-                  "",
+                  "…",
                   "5",
                   "Recovered",
                   "Sept. 20"
                 ],
                 [
                   "133",
-                  "Mrs. Kwok Shi.",
+                  "Mrs.Kwok Shi.",
                   "38",
                   "San Tak.",
-                  "” 13",
-                  "",
-                  "",
+                  "„ 13",
+                  "…",
+                  "…",
                   "5",
-                  "",
-                  ""
+                  "…",
+                  "…"
                 ],
                 [
                   "134",
                   "To Achi.",
                   "17",
                   "Pun Ü.",
-                  "” 21",
-                  "",
-                  "",
+                  "„ 21",
+                  "…",
+                  "…",
                   "2",
                   "Recovered",
                   "Aug. 1"
@@ -3283,27 +3421,67 @@
                   "Tso Lo Sz.",
                   "36",
                   "",
-                  "” 23",
+                  "„ 23",
                   "Boat woman",
-                  "",
+                  "…",
                   "2",
                   "Recovered",
                   "July 2"
                 ]
               ],
               "header_row": true,
+              "bbox": [
+                1658,
+                419,
+                2656,
+                1375
+              ],
               "id": "f019-r-u02"
             },
             {
-              "kind": "footnote",
-              "text": "a. Opium smoker.\nb. Second wife of a wealthy man.\nc. Calculus case.\nd. Religious excitement.\ne. Epileptic.\nf. Blind.",
+              "kind": "text",
+              "text": "a. Opium smoker.\nb. Second wife of a wealthy man.\nc. Calculus case.",
+              "bbox": [
+                1671,
+                1399,
+                2045,
+                1469
+              ],
               "id": "f019-r-u03"
+            },
+            {
+              "kind": "text",
+              "text": "d. Religious excitement.\ne. Epileptic.\nf. Blind.",
+              "bbox": [
+                2149,
+                1397,
+                2414,
+                1469
+              ],
+              "id": "f019-r-u04"
             }
           ],
           "notes": [
             {
-              "anchor": "f019-r-u03",
-              "reason": "No. 106’s first name has a dark print defect and is retained tentatively as Tan. Names joined with braces are recorded within their original numbered row."
+              "anchor": "f019-r-u02",
+              "reason": "The table retains ten columns. A printed dot leader appears as … and blank cells indicate no visible mark. Years printed on separate lines remain attached to the following date. Multiline name cells retain the joined printed lines.",
+              "brace_name_rows": [
+                101,
+                107,
+                108,
+                112,
+                126,
+                128,
+                130
+              ]
+            },
+            {
+              "anchor": "f019-r-u02/patient106/c02",
+              "reason": "A heavy ink spot obscures the upper body of a, though the lower curve and the nearby n support Tan.",
+              "status": "provisional",
+              "candidates": [
+                "Tan Fuk Sam."
+              ]
             }
           ]
         }
@@ -3369,7 +3547,7 @@
                 ],
                 [
                   "",
-                  "F. W. Perry, Esq., N. Y.",
+                  "F. W. Perry, Esq., N.Y.",
                   "Gold 75.00",
                   "478.71"
                 ],
@@ -3686,7 +3864,7 @@
                 ],
                 [
                   "",
-                  "A. Kemnure, Esq., Corea",
+                  "A. Kenmure, Esq., Corea",
                   "20.00"
                 ],
                 [
@@ -3796,7 +3974,7 @@
                 ],
                 [
                   "",
-                  "T. Gillison, M.B., C.M.; — Davenport; — Webster; Hankow",
+                  "T. Gillison, M.B., C.M.,\n— Davenport, } Hankow\n— Webster,",
                   "20.00"
                 ],
                 [
@@ -4061,7 +4239,7 @@
                   "300.00"
                 ],
                 [
-                  "Do.",
+                  "Do.          Do.",
                   "300.00"
                 ],
                 [
@@ -4362,7 +4540,7 @@
                 ],
                 [
                   "",
-                  "” ” Expense of Deeds",
+                  "” ” Expense of Deeds.",
                   "16.00"
                 ],
                 [
@@ -4384,6 +4562,18 @@
             {
               "anchor": "f021-r-u04",
               "reason": "The third digit of 314.30 is faint; the typographic reading is provisional. The 1900 Sundries row prints “90” without a visible decimal.",
+              "status": "unresolved"
+            },
+            {
+              "anchor": "f021-r-u04",
+              "candidate": "314.30",
+              "reason": "1899 項 Food for Inmates 第三位淡，但筆畫與 4 相容，先保留並標未定。同頁項目合計只供檢核。",
+              "bbox": [
+                1689,
+                403,
+                2625,
+                2010
+              ],
               "status": "unresolved"
             }
           ]
@@ -4845,6 +5035,30 @@
             {
               "anchor": "f027-r-u04",
               "reason": "Both years have a doubled or overwritten final digit in the copy. First 187□: 1879 or 1877. Second 189□: 1899 or 1897. The readings remain open.",
+              "status": "unresolved"
+            },
+            {
+              "anchor": "f027-r-u02",
+              "candidate": "187□",
+              "reason": "年尾有手筆覆壓，印層最後數字無法單獨辨明。",
+              "bbox": [
+                1975,
+                509,
+                2002,
+                548
+              ],
+              "status": "unresolved"
+            },
+            {
+              "anchor": "f027-r-u03",
+              "candidate": "189□",
+              "reason": "年尾筆跡覆壓，兩套筆畫疊在一起。",
+              "bbox": [
+                2547,
+                1236,
+                2582,
+                1274
+              ],
               "status": "unresolved"
             }
           ]
@@ -5387,7 +5601,7 @@
             },
             {
               "kind": "body",
-              "text": "This was preeminently the character of Dr. Kerr. If any one gave\nhim a present which he considered was not in keeping with his position\nas a missionary to have in his parlor, he either refused it, or if that could\nnot well be done, put it aside where it would not be seen. He did not desire\nto have the finest parlor, in the community but the one most befitting\nhis position as a missionary. How well I remember his words at a prayer\nmeeting, as he was about to leave on furlough for the home land, nineteen\nyears ago.",
+              "text": "This was preëminently the character of Dr. Kerr. If any one gave\nhim a present which he considered was not in keeping with his position\nas a missionary to have in his parlor, he either refused it, or if that could\nnot well be done, put it aside where it would not be seen. He did not desire\nto have the finest parlor, in the community but the one most befitting\nhis position as a missionary. How well I remember his words at a prayer\nmeeting, as he was about to leave on furlough for the home land, nineteen\nyears ago.",
               "id": "f036-l-u03"
             },
             {
